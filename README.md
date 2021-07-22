@@ -37,3 +37,6 @@ Client/Server architecture ERP application with a included cost accounting, inte
 * Analysis Services / OLAP
 * Object Pascal
 * Delphi
+
+
+![CDS Sample Screen](/ipek_portfolio_01.png)
