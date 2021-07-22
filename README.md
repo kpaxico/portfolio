@@ -14,6 +14,7 @@ Web based CRM application tailored for pharma companies.
 * ASP.NET MVC
 * JavaScript
 * Ext.JS
+![Infini Sample Analysis](/ipek_portfolio_02.png)
 
 ## Machining Studio
 A simulation application tailored for machine tooling (CNC) operations.
