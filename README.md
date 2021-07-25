@@ -52,7 +52,7 @@ as
 ...
 ```
 
-![Infini Sample Analysis](/ipek_portfolio_02.png)
+![Infini Sample Analysis](/images/infini_01.png)
 
 ## Machining Studio
 A simulation application tailored for machine tooling (CNC) operations.
