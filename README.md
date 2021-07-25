@@ -1,3 +1,5 @@
+# Things that I have done...
+
 I am a full-stack developer and have been working as a programmer for the last 20 years. I have always liked to play with the data and unearth hidden things. Of course, then, there were no modern AI, data science, machine learning technologies, or services to speak of. We created OLAP cubes, wrote mind-boggling MDX queries, and waited patiently for our local servers to generate the result. Then, the cloud only meant the thing in the sky, and when an algorithm is mentioned, it only meant another quick sorting logic :)
 I have began my journey to formal data science around 2019 with Microsoft Professional Data Science Certificate Program.
 
