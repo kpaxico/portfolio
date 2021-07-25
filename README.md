@@ -66,6 +66,8 @@ A simulation application tailored for machine tooling (CNC) operations.
 
 ![Milling Process Simulation](/images/machining_studio_02.png)
 
+![BOSS BaseAnalysis sample code](/code_samples/Boss.Base.BaseAnalysis.png)
+
 ## MedIX
 A custom application for MedIX (Hospital Information System application), that can work like a mediator between any laboratory machine (communicating with them through RS232 port) and MedIX in order to send MedIX laboratory orders to machines and then to get results from machines to MedIX.
 ### *Technologies used* ###
