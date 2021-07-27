@@ -97,5 +97,4 @@ I have begun my journey to formal data science around 2019 with Microsoft Profes
 
 ## Descriptive Analysis with Jupyter Notebook
 
-1. [Breakfast Cereal Analysis](data_science/jupyter/breakfast_cereal/Breakfast Cereal Analysis.html)
-2. [Green Energy Analysis](data_science/jupyter/green_energy/Green Energy Analysis.html)
+1. [Green Energy Analysis](data_science/jupyter/green_energy/Green Energy Analysis.html)
