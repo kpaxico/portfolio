@@ -96,9 +96,6 @@ And programming goes hand to hand with data. After working on a huge and variety
 I have begun my journey to formal data science around 2019 with Microsoft Professional Data Science Certificate Program.
 
 ## Descriptive Analysis with Jupyter Notebook
-[Breakfast Cereal Analysis](data_science/jupyter/breakfast_cereal/Breakfast Cereal Analysis.ipynb)
 
-1. [Breakfast Cereal Analysis](data_science/jupyter/breakfast_cereal/Breakfast Cereal Analysis.ipynb)
-2. [Green Energy Analysis](data_science/jupyter/green_energy/Green Energy Analysis.ipynb)
-
-
+1. [Breakfast Cereal Analysis](data_science/jupyter/breakfast_cereal/Breakfast Cereal Analysis.html)
+2. [Green Energy Analysis](data_science/jupyter/green_energy/Green Energy Analysis.html)
