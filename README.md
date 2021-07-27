@@ -52,7 +52,7 @@ as
 ...
 ```
 
-<img src="/programming/images/infini_01.png" alt="Infini Sample Analysis" style="width:800px;"/>
+<img src="programming/images/infini_01.png" alt="Infini Sample Analysis" style="width:800px;"/>
 
 ## Machining Studio
 A simulation application tailored for machine tooling (CNC) operations.
@@ -62,11 +62,11 @@ A simulation application tailored for machine tooling (CNC) operations.
 * WPF (Windows Presentation Foundation)
 * MEF (Managed Extensibility Framework)
 
-<img src="/programming/images/machining_studio_01.png" alt="Broaching Tool" style="width:800px;"/>
+<img src="programming/images/machining_studio_01.png" alt="Broaching Tool" style="width:800px;"/>
 
-<img src="/programming/images/machining_studio_02.png" alt="Milling Process Simulation" style="width:800px;"/>
+<img src="programming/images/machining_studio_02.png" alt="Milling Process Simulation" style="width:800px;"/>
 
-<img src="/programming/code_samples/Boss.Base.BaseAnalysis.png" alt="BOSS BaseAnalysis sample code" style="width:800px;"/>
+<img src="programming/code_samples/Boss.Base.BaseAnalysis.png" alt="BOSS BaseAnalysis sample code" style="width:800px;"/>
 
 ## MedIX
 A custom application for MedIX (Hospital Information System application), that can work like a mediator between any laboratory machine (communicating with them through RS232 port) and MedIX in order to send MedIX laboratory orders to machines and then to get results from machines to MedIX.
