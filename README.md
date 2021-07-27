@@ -97,4 +97,4 @@ I have begun my journey to formal data science around 2019 with Microsoft Profes
 
 Here are some of the projects and files that are the outputs of my education:
 
-1. **A descriptive Analysis with Jupyter Notebook*: [Green Energy Analysis](data_science/jupyter/green_energy/Green Energy Analysis.html)
+1. *A descriptive Analysis with Jupyter Notebook*: [Green Energy Analysis](data_science/jupyter/green_energy/Green Energy Analysis.html)
