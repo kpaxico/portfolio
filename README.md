@@ -99,7 +99,7 @@ Here are some of the projects and files that are the outputs of my education:
 
 ### A descriptive analysis with Jupyter Notebook: [Green Energy Analysis](data_science/jupyter/green_energy/Green Energy Analysis.html)
 
-## Visual Analyses with Power BI
+## Visual Analyses using Power BI
 ### 1. Manitoba-Quebec-Ontario Crime Analysis, 2009-2019
 <br/>
 <img src="data_science/powerbi/crime_report/images/crime_report.png" style="width:800px;"/>
