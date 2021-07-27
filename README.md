@@ -96,18 +96,18 @@ Here are some of the projects and files that are the outputs of my education:
 
 ## Descriptive and Predictive Analyses using Jupyter Notebook and Python
 
-### A descriptive analysis with Jupyter Notebook: [Green Energy Analysis](data_science/jupyter/green_energy/Green Energy Analysis.html)
+### 1. A descriptive analysis with Jupyter Notebook: [Green Energy Analysis](data_science/jupyter/green_energy/Green Energy Analysis.html)
 
-### Analythics Vidhya - [Big Mart Sales Prediction](data_science/ml/Big_Mart_Sales_Prediction/Big_Mart_Sales_Prediction.html)
+### 2. Analythics Vidhya - [Big Mart Sales Prediction](data_science/ml/Big_Mart_Sales_Prediction/Big_Mart_Sales_Prediction.html)
 
-### Microsoft Professional Data Science Program Capstone Project - [Predicting Evictions](data_science/ml/MPP_DS_Predicting_Evictions/MPP_DS_Predicting_Evictions_S01.html)
+### 3. Microsoft Professional Data Science Program Capstone Project - [Predicting Evictions](data_science/ml/MPP_DS_Predicting_Evictions/MPP_DS_Predicting_Evictions_S01.html)
 
 
 ## Visual Analyses using Power BI
-### Manitoba-Quebec-Ontario Crime Analysis, 2009-2019
+### 1. Manitoba-Quebec-Ontario Crime Analysis, 2009-2019
 <br/>
 <img src="data_science/powerbi/crime_report/images/crime_report.png" style="width:800px;"/>
-### Canadian Community Health Survey - Smoking Analysis, 2015-2019
+### 2. Canadian Community Health Survey - Smoking Analysis, 2015-2019
 <br/>
 <img src="data_science/powerbi/cchs/images/cchs_smoking_01.png" style="width:800px;"/>
 <br/>
