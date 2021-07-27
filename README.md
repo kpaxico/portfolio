@@ -97,14 +97,14 @@ I have begun my journey to formal data science around 2019 with Microsoft Profes
 
 Here are some of the projects and files that are the outputs of my education:
 
-1. *A descriptive analysis with Jupyter Notebook*: [Green Energy Analysis](data_science/jupyter/green_energy/Green Energy Analysis.html)
+### A descriptive analysis with Jupyter Notebook: [Green Energy Analysis](data_science/jupyter/green_energy/Green Energy Analysis.html)
 
-Visual Analysis with Power BI
-1. *Manitoba-Quebec-Ontario Crime Analysis, 2009-2019*
+Visual Analyses with Power BI
+### 1. Manitoba-Quebec-Ontario Crime Analysis, 2009-2019
 <br/>
-<img src="data_science/powerbi/crime_report/images/crime_report.png" style="width:500px;"/>
-2. [Canadian Community Health Survey - Smoking Analysis, 2015-2019] 
+<img src="data_science/powerbi/crime_report/images/crime_report.png" style="width:800px;"/>
+### 2. [Canadian Community Health Survey - Smoking Analysis, 2015-2019]
 <br/>
-<img src="data_science/powerbi/cchs/images/cchs_smoking_01.png" style="width:500px;"/>
+<img src="data_science/powerbi/cchs/images/cchs_smoking_01.png" style="width:800px;"/>
 <br/>
-<img src="data_science/powerbi/cchs/images/cchs_smoking_02.png" style="width:500px;"/>
+<img src="data_science/powerbi/cchs/images/cchs_smoking_02.png" style="width:800px;"/>
