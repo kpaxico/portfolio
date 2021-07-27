@@ -86,7 +86,7 @@ Client/Server architecture ERP application with a included cost accounting, inte
 
 ![CDS Sample Screen](/programming/images/cds_01.png)
 
-# Data Analysis
+# Data Science
 
 And programming goes hand to hand with data. After working on a huge and variety of applications, I wanted to play with the data and unearth hidden things. Of course, back then, there were no modern AI, data science, machine learning technologies, or services to speak of. I created OLAP cubes, wrote mind-boggling MDX queries, and waited patiently for our local servers to generate the result. Then, the cloud only meant the thing in the sky, and when an algorithm is mentioned, it only meant another quick sorting logic :)
 
@@ -94,7 +94,14 @@ I have begun my journey to formal data science around 2019 with Microsoft Profes
 
 Here are some of the projects and files that are the outputs of my education:
 
-### A descriptive analysis with Jupyter Notebook: [Green Energy Analysis](data_science/jupyter/green_energy/Green Energy Analysis.html)
+## Descriptive and Predictive Analyses using Jupyter Notebook and Python
+
+### 1. A descriptive analysis with Jupyter Notebook: [Green Energy Analysis](data_science/jupyter/green_energy/Green Energy Analysis.html)
+
+### 2. Analythics Vidhya - [Big Mart Sales Prediction](data_science/ml/Big_Mart_Sales_Prediction/Big_Mart_Sales_Prediction.html)
+
+### 3. Microsoft Professional Data Science Program Capstone Project - [Predicting_Evictions](data_science/ml/MPP_DS_Predicting_Evictions/MPP_DS_Predicting_Evictions_S01.html)
+
 
 ## Visual Analyses using Power BI
 ### 1. Manitoba-Quebec-Ontario Crime Analysis, 2009-2019
