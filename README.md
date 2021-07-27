@@ -55,7 +55,7 @@ as
 ...
 ```
 
-![Infini Sample Analysis](/images/infini_01.png)
+![Infini Sample Analysis](/programming/images/infini_01.png)
 
 ## Machining Studio
 A simulation application tailored for machine tooling (CNC) operations.
@@ -65,11 +65,11 @@ A simulation application tailored for machine tooling (CNC) operations.
 * WPF (Windows Presentation Foundation)
 * MEF (Managed Extensibility Framework)
 
-![Broaching Tool](/images/machining_studio_01.png)
+![Broaching Tool](/programming/images/machining_studio_01.png)
 
-![Milling Process Simulation](/images/machining_studio_02.png)
+![Milling Process Simulation](/programming/images/machining_studio_02.png)
 
-![BOSS BaseAnalysis sample code](/code_samples/Boss.Base.BaseAnalysis.png)
+![BOSS BaseAnalysis sample code](/programming/code_samples/Boss.Base.BaseAnalysis.png)
 
 ## MedIX
 A custom application for MedIX (Hospital Information System application), that can work like a mediator between any laboratory machine (communicating with them through RS232 port) and MedIX in order to send MedIX laboratory orders to machines and then to get results from machines to MedIX.
@@ -87,7 +87,7 @@ Client/Server architecture ERP application with a included cost accounting, inte
 * Delphi
 
 
-![CDS Sample Screen](/images/cds_01.png)
+![CDS Sample Screen](/programming/images/cds_01.png)
 
 # Data Analysis
 
@@ -97,4 +97,8 @@ I have begun my journey to formal data science around 2019 with Microsoft Profes
 
 Here are some of the projects and files that are the outputs of my education:
 
-1. *A descriptive Analysis with Jupyter Notebook*: [Green Energy Analysis](data_science/jupyter/green_energy/Green Energy Analysis.html)
+1. *A descriptive analysis with Jupyter Notebook*: [Green Energy Analysis](data_science/jupyter/green_energy/Green Energy Analysis.html)
+
+Visual Analysis with Power BI
+1. *[Manitoba-Quebec-Ontario Crime Analysis, 2009-2019]*(data_science/powerbi/crime_report/images/crime_report.png)
+2. *[Canadian Community Health Survey - Smoking Analysis, 2015-2019]*(data_science/powerbi/cchs/images/cchs_smoking_01.png)
