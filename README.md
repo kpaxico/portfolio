@@ -102,7 +102,6 @@ Here are some of the projects and files that are the outputs of my education:
 
 ### 3. Microsoft Professional Data Science Program Capstone Project - [Predicting Evictions](data_science/ml/MPP_DS_Predicting_Evictions/MPP_DS_Predicting_Evictions_S01.html)
 
-
 ## Visual Analyses using Power BI
 ### 1. Manitoba-Quebec-Ontario Crime Analysis, 2009-2019
 <br/>
