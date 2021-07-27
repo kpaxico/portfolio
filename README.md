@@ -101,7 +101,10 @@ Here are some of the projects and files that are the outputs of my education:
 
 Visual Analysis with Power BI
 1. *Manitoba-Quebec-Ontario Crime Analysis, 2009-2019*
-<img src="data_science/powerbi/crime_report/images/crime_report.png" style="width:200px;"/>
+<br/>
+<img src="data_science/powerbi/crime_report/images/crime_report.png" style="width:500px;"/>
 2. [Canadian Community Health Survey - Smoking Analysis, 2015-2019] 
-<img src="data_science/powerbi/cchs/images/cchs_smoking_01.png" style="width:200px;"/>
-<img src="data_science/powerbi/cchs/images/cchs_smoking_02.png" style="width:200px;"/>
+<br/>
+<img src="data_science/powerbi/cchs/images/cchs_smoking_01.png" style="width:500px;"/>
+<br/>
+<img src="data_science/powerbi/cchs/images/cchs_smoking_02.png" style="width:500px;"/>
