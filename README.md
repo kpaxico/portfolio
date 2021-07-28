@@ -56,7 +56,7 @@ as
 
 ## Issue Tracker
 
-A generic issue tracker application web app which uses the famous [BugTracker.NET](http://www.ifdefined.com/bugtrackernet.html) on the backend.
+A generic issue tracker web app which uses the [BugTracker.NET](http://www.ifdefined.com/bugtrackernet.html) on the backend.
 
 <img src="programming/images/issue_tracker_01.jpeg" alt="Issue Tracker Login"  style="height:600px;" />
 <img src="programming/images/issue_tracker_02.jpeg" alt="Issue Tracker Main Page" style="height:600px;" />
