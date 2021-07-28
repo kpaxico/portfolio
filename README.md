@@ -5,7 +5,7 @@ I am a full-stack developer and have worked as an "analyst" programmer for the l
 ## Infini CRM & Infini SCM
 Web based CRM application tailored for pharma companies.
 
-### *Technologies used* ###
+### Technologies used ###
 * Microsoft SQL Server Database Engine
 * Microsoft SQL Server Analysis Services
 * Microsoft SQL Server Reporting Services
@@ -54,9 +54,21 @@ as
 
 <img src="programming/images/infini_01.png" alt="Infini Sample Analysis" style="width:800px;"/>
 
+## Issue Tracker
+
+A generic issue tracker application web app which uses the famous [BugTracker.NET](http://www.ifdefined.com/bugtrackernet.html) on the backend.
+
+<img src="programming/images/issue_tracker_01.jpeg" alt="Issue Tracker Login" />
+<img src="programming/images/issue_tracker_02.jpeg" alt="Issue Tracker Main Page" />
+
+### Technologies used ###
+* .NET Core 5.0
+* Blazor WebAssembly
+
 ## Machining Studio
 A simulation application tailored for machine tooling (CNC) operations.
-### *Technologies used* ###
+
+### Technologies used ###
 * SQL Express
 * .NET Framework 4.0
 * WPF (Windows Presentation Foundation)
@@ -77,7 +89,8 @@ A custom application for MedIX (Hospital Information System application), that c
 
 ## Cerebrum ERP & CDS Data Analysis Tool
 Client/Server architecture ERP application with a included cost accounting, integrated manufacturing modules.
-### *Technologies used* ###
+
+### Technologies used ###
 * Microsoft SQL Server
 * Microsoft SQL Analysis Services / OLAP
 * Object Pascal
