@@ -58,8 +58,8 @@ as
 
 A generic issue tracker application web app which uses the famous [BugTracker.NET](http://www.ifdefined.com/bugtrackernet.html) on the backend.
 
-<img src="programming/images/issue_tracker_01.jpeg" alt="Issue Tracker Login" />
-<img src="programming/images/issue_tracker_02.jpeg" alt="Issue Tracker Main Page" />
+<img src="programming/images/issue_tracker_01.jpeg" alt="Issue Tracker Login"  style="height:300px;" />
+<img src="programming/images/issue_tracker_02.jpeg" alt="Issue Tracker Main Page" style="height:300px;" />
 
 ### Technologies used ###
 * .NET Core 5.0
