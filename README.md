@@ -101,6 +101,8 @@ Client/Server architecture ERP application with a included cost accounting, inte
 
 # Data Science
 
+<iframe class="clickup-embed" src="https://sharing.clickup.com/g/h/hem3z-21/751e4cf5be0cde4" onwheel="" width="100%" height="700px" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
 And programming goes hand to hand with data. After working on a huge and variety of applications, I wanted to play with the data and unearth hidden things. Of course, back then, there were no modern AI, data science, machine learning technologies, or services to speak of. I created OLAP cubes, wrote mind-boggling MDX queries, and waited patiently for our local servers to generate the result. Then, the cloud only meant the thing in the sky, and when an algorithm is mentioned, it only meant another quick sorting logic :)
 
 I have begun my journey to formal data science around 2019 with Microsoft Professional Data Science Certificate Program. However, since I did not switch careers from programming to data engineer, I continued to improve my data science knowledge by taking other online programs, and I learned a lot :)
